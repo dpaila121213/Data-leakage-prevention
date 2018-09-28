@@ -1,0 +1,56 @@
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\log4net.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\log4net.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.Properties.Resources.resources
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.Refresh.resources
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.csproj.GenerateResource.Cache
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.config
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.pdb
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.CodeAnalysisLog.xml
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.lastcodeanalysissucceeded
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.manifest
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.vsto
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.csprojResolveAssemblyReference.cache
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.4.8.4.3.dll
+C:\Users\dpaila121213\Desktop\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.4.8.4.3.pdb
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.config
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.pdb
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.CodeAnalysisLog.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.lastcodeanalysissucceeded
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.dll.manifest
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\DLPCheckO365.4.8.4.3.vsto
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\log4net.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\log4net.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.csprojResolveAssemblyReference.cache
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.Properties.Resources.resources
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.Refresh.resources
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.csproj.GenerateResource.Cache
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.4.8.4.3.dll
+F:\OPER-CDO-macros\CDO DEV\Dhanunjay\DLPCheckO365\DLPCheckO365\obj\Debug\DLPCheckO365.4.8.4.3.pdb
